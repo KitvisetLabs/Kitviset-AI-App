@@ -1,2 +1,2 @@
 # Kitviset-AI-App
-Python Qaunt Trading + LLM Live Research 
+Python Qaunt Trading + AI(LLM) Live Research 
